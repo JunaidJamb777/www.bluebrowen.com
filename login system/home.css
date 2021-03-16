@@ -1,0 +1,26 @@
+input{
+    background-color: burlywood;
+    color: cadetblue;
+    width: fit-content;
+}
+body{
+    background-color: cadetblue;
+    padding: auto;
+    margin: auto;
+
+}
+button{
+    background-color:rgb(29, 29, 243);
+    color: black;
+    opacity: 0.8;
+    border: rgb(107, 107, 243) 2px solid;
+}
+button:active{
+    background-color: green;
+}
+button:hover{
+    color: white;
+}
+nav{
+    background-color: black;
+}
